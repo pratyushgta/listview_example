@@ -1,3 +1,10 @@
+/**
+ * This class contains methods for the welcome screen of the list view app
+ * MAD-E4
+ *
+ * @author Pratyush Kumar (github.com/pratyushgta)
+ */
+
 package com.example.mad_e3_listview;
 
 import androidx.appcompat.app.AppCompatActivity;
